@@ -1,4 +1,4 @@
-(defproject com.codahale/totp-clj "0.1.0"
+(defproject com.codahale/totp-clj "0.1.1-SNAPSHOT"
   :description "A library for implementing TOTP."
   :url "https://github.com/codahale/totp-clj"
   :license {:name "Eclipse Public License"
